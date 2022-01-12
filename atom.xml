@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>昏.</title>
+  
+  <subtitle>Vision&#39;s blog</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-01-11T08:53:45.103Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Vision</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>about</title>
+    <link href="http://example.com/2022/01/11/about/"/>
+    <id>http://example.com/2022/01/11/about/</id>
+    <published>2022-01-11T07:17:24.000Z</published>
+    <updated>2022-01-11T08:53:45.103Z</updated>
+    
+    
+    
+    
+    <category term="about" scheme="http://example.com/categories/about/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/01/10/hello-world/"/>
+    <id>http://example.com/2022/01/10/hello-world/</id>
+    <published>2022-01-10T15:07:09.387Z</published>
+    <updated>2022-01-11T07:30:05.829Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
