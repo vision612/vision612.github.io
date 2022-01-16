@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-11T08:53:45.103Z</updated>
+  <updated>2022-01-16T15:52:43.398Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,16 +17,90 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>about</title>
+    <title>Markdown语法</title>
+    <link href="http://example.com/2022/01/16/markdown/"/>
+    <id>http://example.com/2022/01/16/markdown/</id>
+    <published>2022-01-16T15:52:24.000Z</published>
+    <updated>2022-01-16T15:52:43.398Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;本文作为自己的学习记录，内容来自互联网，整理记录一些常用的语法。&lt;br&gt;参考：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="web" scheme="http://example.com/categories/web/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Linux环境搭建</title>
+    <link href="http://example.com/2022/01/16/linux/"/>
+    <id>http://example.com/2022/01/16/linux/</id>
+    <published>2022-01-16T07:17:24.000Z</published>
+    <updated>2022-01-16T15:04:49.045Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;软件版本&quot;&gt;&lt;a href=&quot;#软件版本&quot; class=&quot;headerlink&quot; title=&quot;软件版本&quot;&gt;&lt;/a&gt;软件版本&lt;/h1&gt;&lt;p&gt;虚拟机VMware® Workstation 15 Pro&lt;/p&gt;
+&lt;p&gt;系统win10&lt;/p&gt;
+&lt;p&gt;镜像CentOS</summary>
+        
+      
+    
+    
+    
+    <category term="web" scheme="http://example.com/categories/web/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Nginx安装</title>
+    <link href="http://example.com/2022/01/16/nginx/"/>
+    <id>http://example.com/2022/01/16/nginx/</id>
+    <published>2022-01-16T07:17:24.000Z</published>
+    <updated>2022-01-16T15:04:52.380Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;linux下yum安装&quot;&gt;&lt;a href=&quot;#linux下yum安装&quot; class=&quot;headerlink&quot; title=&quot;linux下yum安装&quot;&gt;&lt;/a&gt;linux下yum安装&lt;/h1&gt;&lt;p&gt;有时间再写&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="web" scheme="http://example.com/categories/web/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试用</title>
     <link href="http://example.com/2022/01/11/about/"/>
     <id>http://example.com/2022/01/11/about/</id>
     <published>2022-01-11T07:17:24.000Z</published>
-    <updated>2022-01-11T08:53:45.103Z</updated>
+    <updated>2022-01-16T14:55:00.340Z</updated>
     
     
     
     
-    <category term="about" scheme="http://example.com/categories/about/"/>
+    <category term="test" scheme="http://example.com/categories/test/"/>
     
     
   </entry>

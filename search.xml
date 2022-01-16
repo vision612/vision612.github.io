@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>about</title>
-    <url>/2022/01/11/about/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>about</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2022/01/10/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -25,5 +17,153 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>测试用</title>
+    <url>/2022/01/11/about/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Markdown语法</title>
+    <url>/2022/01/16/markdown/</url>
+    <content><![CDATA[<blockquote>
+<p>本文作为自己的学习记录，内容来自互联网，整理记录一些常用的语法。<br>参考：<a href="https://www.runoob.com/markdown/md-tutorial.html">https://www.runoob.com/markdown/md-tutorial.html</a></p>
+</blockquote>
+<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><p>使用#来标记</p>
+<p>一个#是一级标题，二个#是二级标题，以此类推，最多支持六级标题</p>
+<p>注：标准语法一般在#后跟个空格再写文字</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 这是一级标题</span><br><span class="line">## 这是二级标题</span><br><span class="line">### 这是三级标题</span><br><span class="line">#### 这是四级标题</span><br><span class="line">##### 这是五级标题</span><br><span class="line">###### 这是六级标题</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级标题"><a href="#这是三级标题" class="headerlink" title="这是三级标题"></a>这是三级标题</h3><h4 id="这是四级标题"><a href="#这是四级标题" class="headerlink" title="这是四级标题"></a>这是四级标题</h4><h5 id="这是五级标题"><a href="#这是五级标题" class="headerlink" title="这是五级标题"></a>这是五级标题</h5><h6 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="这是六级标题"></a>这是六级标题</h6><h1 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h1><p><strong>加粗</strong></p>
+<p>要加粗的文字左右分别用两个*号包起来</p>
+<p><em>斜体</em> </p>
+<p>要倾斜的文字左右分别用一个*号包起来</p>
+<p><em><strong>斜体加粗</strong></em></p>
+<p>要倾斜和加粗的文字左右分别用三个*号包起来</p>
+<p><del>删除线</del></p>
+<p>要加删除线的文字左右分别用两个~~号包起来</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">**加粗的文字**</span><br><span class="line">*倾斜的文字*`</span><br><span class="line">***斜体加粗的文字***</span><br><span class="line">~~加删除线的文字~~</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<p><strong>加粗的文字</strong></p>
+<p><em>倾斜的文字</em></p>
+<p><em><strong>斜体加粗的文字</strong></em></p>
+<p><del>加删除线的文字</del></p>
+<h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p>图片的语法：<br><code>![alt 属性文本](图片地址 &quot;可选标题&quot;)</code></p>
+<p>开头一个感叹号 !</p>
+<p>接着一个方括号，里面放上图片的替代文字</p>
+<p>接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上选择性的 ‘title’ 属性的文字</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![图片](https://baobaobashi.xyz/wp-content/uploads/2021/12/IMG_197420211019-131406.webp)</span><br></pre></td></tr></table></figure>
+<p>效果如下：<br><img src="https://baobaobashi.xyz/wp-content/uploads/2021/12/IMG_197420211019-131406.webp" alt="图片"></p>
+<p>Markdown还没有办法指定图片的高度与宽度，如果你需要的话，可以使用普通的<code>&lt;img&gt;</code>标签</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;img src=&quot;https://baobaobashi.xyz/wp-content/uploads/2021/12/IMG_197420211019-131406.webp&quot; width=&quot;50%&quot;&gt;</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<img src="https://baobaobashi.xyz/wp-content/uploads/2021/12/IMG_197420211019-131406.webp" width="50%">
+
+<h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><p>链接的语法：<code>[链接名称](链接地址)</code>或者<code>&lt;链接地址&gt;</code></p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">这是一个链接[昏.](https://alittleprince.xyz/)</span><br><span class="line"></span><br><span class="line">&lt;https://alittleprince.xyz&gt;</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<p>这是一个链接<a href="https://alittleprince.xyz/">昏.</a></p>
+<p><a href="https://alittleprince.xyz/">https://alittleprince.xyz</a></p>
+<p>还可以通过变量来设置一个链接，变量赋值在文档末尾进行</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">这个链接用1作为网址变量[昏][1]</span><br><span class="line">这个链接用abc作为网址变量[vision][abc]</span><br><span class="line"></span><br><span class="line">然后在文档的结尾为变量赋值（网址）</span><br><span class="line">[1]: https://alittleprince.xyz</span><br><span class="line">[abc]: https://baobaobashi.xyz/</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<p>这个链接用1作为网址变量<a href="https://alittleprince.xyz/">昏</a></p>
+<p>这个链接用abc作为网址变量<a href="https://baobaobashi.xyz/">vision</a></p>
+<p>然后在文档的结尾为变量赋值（网址）</p>
+<h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h1><p>片段的代码可以用反引号(`)把它包起来</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">`int main()`</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<p><code>int main()</code></p>
+<p>代码区块使用4个空格或者一个制表符，也可以用 ``` 包裹一段代码，并指定一种语言（或者不指定）</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">```c</span><br><span class="line">#include &lt;stdio.h&gt;</span><br><span class="line">int main()</span><br><span class="line">&#123;</span><br><span class="line">printf(&quot;Hello, World!&quot;);</span><br><span class="line">return 0;</span><br><span class="line">&#125;</span><br><span class="line">```</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;Hello, World!&quot;</span>);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>累了睡觉去了~~</p>
+]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Linux环境搭建</title>
+    <url>/2022/01/16/linux/</url>
+    <content><![CDATA[<h1 id="软件版本"><a href="#软件版本" class="headerlink" title="软件版本"></a>软件版本</h1><p>虚拟机VMware® Workstation 15 Pro</p>
+<p>系统win10</p>
+<p>镜像CentOS 7.9</p>
+<h1 id="安装Linux虚拟机"><a href="#安装Linux虚拟机" class="headerlink" title="安装Linux虚拟机"></a>安装Linux虚拟机</h1><h2 id="1、安装VMware"><a href="#1、安装VMware" class="headerlink" title="1、安装VMware"></a>1、安装VMware</h2><p>自己想办法</p>
+<h2 id="2、下载CentOS镜像"><a href="#2、下载CentOS镜像" class="headerlink" title="2、下载CentOS镜像"></a>2、下载CentOS镜像</h2><p>国内镜像<a href="http://isoredirect.centos.org/centos/7/isos/x86_64/">http://isoredirect.centos.org/centos/7/isos/x86_64/</a></p>
+<p>建议选择版本CentOS-7-x86_64-Minimal-2009.iso</p>
+<h2 id="3、创建CentOS虚拟机"><a href="#3、创建CentOS虚拟机" class="headerlink" title="3、创建CentOS虚拟机"></a>3、创建CentOS虚拟机</h2><p>参考</p>
+<p><a href="https://www.runoob.com/w3cnote/vmware-install-centos7.html">https://www.runoob.com/w3cnote/vmware-install-centos7.html</a></p>
+<p><a href="https://mp.weixin.qq.com/s/onVwwEQ1DAwbvK7qS2YNxg">https://mp.weixin.qq.com/s/onVwwEQ1DAwbvK7qS2YNxg</a></p>
+<p>仅供参考，有问题请百度</p>
+<p>输入账号root和密码登录</p>
+<h1 id="使用Xshell和Xftp"><a href="#使用Xshell和Xftp" class="headerlink" title="使用Xshell和Xftp"></a>使用Xshell和Xftp</h1><h2 id="1、下载Xshell和Xftp"><a href="#1、下载Xshell和Xftp" class="headerlink" title="1、下载Xshell和Xftp"></a>1、下载Xshell和Xftp</h2><p>打开官网填写邮箱，下载链接会发到邮箱<a href="https://www.netsarang.com/zh/free-for-home-school/">https://www.netsarang.com/zh/free-for-home-school/</a></p>
+<p>如果官网打不开，我上传到了网盘中，可以从这下载</p>
+<p>百度云 链接：<a href="https://pan.baidu.com/s/1hhtJSXZje1GUc2NItARemw">https://pan.baidu.com/s/1hhtJSXZje1GUc2NItARemw</a> 提取码：mr77</p>
+<p>阿里云 链接：<a href="https://www.aliyundrive.com/s/cgDyFTsYF3y">https://www.aliyundrive.com/s/cgDyFTsYF3y</a></p>
+<h2 id="2、使用Xshell连接虚拟机"><a href="#2、使用Xshell连接虚拟机" class="headerlink" title="2、使用Xshell连接虚拟机"></a>2、使用Xshell连接虚拟机</h2><p>输入ip用户名密码连接</p>
+<p><img src="https://baobaobashi.xyz/wp-content/uploads/2021/12/image-4.png"></p>
+]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Nginx安装</title>
+    <url>/2022/01/16/nginx/</url>
+    <content><![CDATA[<h1 id="linux下yum安装"><a href="#linux下yum安装" class="headerlink" title="linux下yum安装"></a>linux下yum安装</h1><p>有时间再写</p>
+<hr>
+<h1 id="linux下手动安装"><a href="#linux下手动安装" class="headerlink" title="linux下手动安装"></a>linux下手动安装</h1><p>参考<a href="https://www.kuangstudy.com/bbs/1353634800149213186">https://www.kuangstudy.com/bbs/1353634800149213186</a></p>
+<h2 id="安装依赖"><a href="#安装依赖" class="headerlink" title="安装依赖"></a>安装依赖</h2><p>1、安装gcc</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> yum install gcc-c++</span></span><br></pre></td></tr></table></figure>
+<p>2、PCRE pcre-devel 安装</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> yum install -y pcre pcre-devel</span></span><br></pre></td></tr></table></figure>
+<p>3、zlib 安装</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> yum install -y zlib zlib-devel</span></span><br></pre></td></tr></table></figure>
+<p>4、OpenSSL 安装</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> yum install -y openssl openssl-devel</span></span><br></pre></td></tr></table></figure>
+<h2 id="下载与安装"><a href="#下载与安装" class="headerlink" title="下载与安装"></a>下载与安装</h2><p>手动下载.tar.gz安装包<a href="https://nginx.org/en/download.html">https://nginx.org/en/download.html</a></p>
+<p>在Stable version中选择 nginx-1.20.2 pgp 下载nginx-1.20.2.tar.gz</p>
+<p>使用xftp上传到服务器上 /root</p>
+<p>或者直接下载<code>wget https://nginx.org/download/nginx-1.20.2.tar.gz</code></p>
+<p>解压</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> tar -zxvf nginx-1.20.2.tar.gz</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> <span class="built_in">cd</span> nginx-1.20.2</span></span><br></pre></td></tr></table></figure>
+<p>配置，在nginx根目录下执行</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> ./configure</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> make</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> make install</span></span><br></pre></td></tr></table></figure>
+<p>查找安装路径 </p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> whereis nginx</span></span><br></pre></td></tr></table></figure>
+<h2 id="启动及常用命令"><a href="#启动及常用命令" class="headerlink" title="启动及常用命令"></a>启动及常用命令</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> <span class="built_in">cd</span> /usr/<span class="built_in">local</span>/nginx/sbin/  进入目录</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ./nginx  启动</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ./nginx -s stop  停止</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ./nginx -s quit  安全退出</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ./nginx -s reload  重新加载配置文件</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ps aux|grep nginx  查看nginx进程</span></span><br></pre></td></tr></table></figure>
+<p>关闭防火墙或开放端口</p>
+<p>启动成功 访问服务器ip:80</p>
+<p>开启及关闭防火墙</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> service firewalld start</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> service firewalld stop</span></span><br></pre></td></tr></table></figure>
+<h1 id="windows下安装"><a href="#windows下安装" class="headerlink" title="windows下安装"></a>windows下安装</h1><p><del>试过，没成功，未知原因</del></p>
+<p>参考<a href="https://www.cnblogs.com/taiyonghai/p/9402734.html">https://www.cnblogs.com/taiyonghai/p/9402734.html</a>更新失败原因 文件路径含有中文</p>
+<p>下载nginx</p>
+<p>下载Windows版<a href="https://nginx.org/en/download.html">https://nginx.org/en/download.html</a></p>
+<p>解压后双击nginx.exe启动，不要直接双击！ 不要直接双击！ 不要直接双击！</p>
+<p>win+r运行cmd</p>
+<p>使用命令到达nginx解压后的目录</p>
+<p>例如文件夹位于E:\nginx，先输入E：回车进入e盘，然后输入<code>cd nginx</code>进入文件夹</p>
+<p>启动ngnix，输入<code>nginx.exe</code>或者<code>start nginx</code></p>
+<p>在浏览器访问<a href="http://localhost/">http://localhost:80</a></p>
+<p>重新载入配置文件<code>nginx -s reload </code></p>
+<p>关闭nginx，输入<code>nginx -s stop </code>(快速停止nginx)或 <code>nginx -s quit </code>(完整有序的停止nginx)</p>
+]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
   </entry>
 </search>

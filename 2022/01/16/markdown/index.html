@@ -13,7 +13,7 @@
         name="viewport"
         content="width=device-width, initial-scale=1, maximum-scale=1"
       />
-      <title>测试用 |  昏.</title>
+      <title>Markdown语法 |  昏.</title>
   <meta name="generator" content="hexo-theme-ayer">
       
       <link rel="shortcut icon" href="/favicon.ico" />
@@ -57,7 +57,7 @@
     <main class="content on">
       <section class="outer">
   <article
-  id="post-about"
+  id="post-markdown"
   class="article article-type-post"
   itemscope
   itemprop="blogPost"
@@ -68,7 +68,7 @@
     <header class="article-header">
        
 <h1 class="article-title sea-center" style="border-left:0" itemprop="name">
-  测试用
+  Markdown语法
 </h1>
  
 
@@ -76,22 +76,104 @@
     </header>
      
     <div class="article-meta">
-      <a href="/2022/01/11/about/" class="article-date">
-  <time datetime="2022-01-11T07:17:24.000Z" itemprop="datePublished">2022-01-11</time>
+      <a href="/2022/01/16/markdown/" class="article-date">
+  <time datetime="2022-01-16T15:52:24.000Z" itemprop="datePublished">2022-01-16</time>
 </a> 
   <div class="article-category">
-    <a class="article-category-link" href="/categories/test/">test</a>
+    <a class="article-category-link" href="/categories/web/">web</a>
   </div>
+  
+<div class="word_count">
+    <span class="post-time">
+        <span class="post-meta-item-icon">
+            <i class="ri-quill-pen-line"></i>
+            <span class="post-meta-item-text"> Word count:</span>
+            <span class="post-count">769</span>
+        </span>
+    </span>
+
+    <span class="post-time">
+        &nbsp; | &nbsp;
+        <span class="post-meta-item-icon">
+            <i class="ri-book-open-line"></i>
+            <span class="post-meta-item-text"> Reading time≈</span>
+            <span class="post-count">2 min</span>
+        </span>
+    </span>
+</div>
  
     </div>
       
+    <div class="tocbot"></div>
+
 
 
 
   
     <div class="article-entry" itemprop="articleBody">
        
-   
+  <blockquote>
+<p>本文作为自己的学习记录，内容来自互联网，整理记录一些常用的语法。<br>参考：<a target="_blank" rel="noopener" href="https://www.runoob.com/markdown/md-tutorial.html">https://www.runoob.com/markdown/md-tutorial.html</a></p>
+</blockquote>
+<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><p>使用#来标记</p>
+<p>一个#是一级标题，二个#是二级标题，以此类推，最多支持六级标题</p>
+<p>注：标准语法一般在#后跟个空格再写文字</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 这是一级标题</span><br><span class="line">## 这是二级标题</span><br><span class="line">### 这是三级标题</span><br><span class="line">#### 这是四级标题</span><br><span class="line">##### 这是五级标题</span><br><span class="line">###### 这是六级标题</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级标题"><a href="#这是三级标题" class="headerlink" title="这是三级标题"></a>这是三级标题</h3><h4 id="这是四级标题"><a href="#这是四级标题" class="headerlink" title="这是四级标题"></a>这是四级标题</h4><h5 id="这是五级标题"><a href="#这是五级标题" class="headerlink" title="这是五级标题"></a>这是五级标题</h5><h6 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="这是六级标题"></a>这是六级标题</h6><h1 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h1><p><strong>加粗</strong></p>
+<p>要加粗的文字左右分别用两个*号包起来</p>
+<p><em>斜体</em> </p>
+<p>要倾斜的文字左右分别用一个*号包起来</p>
+<p><em><strong>斜体加粗</strong></em></p>
+<p>要倾斜和加粗的文字左右分别用三个*号包起来</p>
+<p><del>删除线</del></p>
+<p>要加删除线的文字左右分别用两个~~号包起来</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">**加粗的文字**</span><br><span class="line">*倾斜的文字*`</span><br><span class="line">***斜体加粗的文字***</span><br><span class="line">~~加删除线的文字~~</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<p><strong>加粗的文字</strong></p>
+<p><em>倾斜的文字</em></p>
+<p><em><strong>斜体加粗的文字</strong></em></p>
+<p><del>加删除线的文字</del></p>
+<h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p>图片的语法：<br><code>![alt 属性文本](图片地址 &quot;可选标题&quot;)</code></p>
+<p>开头一个感叹号 !</p>
+<p>接着一个方括号，里面放上图片的替代文字</p>
+<p>接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上选择性的 ‘title’ 属性的文字</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![图片](https://baobaobashi.xyz/wp-content/uploads/2021/12/IMG_197420211019-131406.webp)</span><br></pre></td></tr></table></figure>
+<p>效果如下：<br><img src="https://baobaobashi.xyz/wp-content/uploads/2021/12/IMG_197420211019-131406.webp" alt="图片"></p>
+<p>Markdown还没有办法指定图片的高度与宽度，如果你需要的话，可以使用普通的<code>&lt;img&gt;</code>标签</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src=&quot;https://baobaobashi.xyz/wp-content/uploads/2021/12/IMG_197420211019-131406.webp&quot; width=&quot;50%&quot;&gt;</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<img src="https://baobaobashi.xyz/wp-content/uploads/2021/12/IMG_197420211019-131406.webp" width="50%">
+
+<h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><p>链接的语法：<code>[链接名称](链接地址)</code>或者<code>&lt;链接地址&gt;</code></p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">这是一个链接[昏.](https://alittleprince.xyz/)</span><br><span class="line"></span><br><span class="line">&lt;https://alittleprince.xyz&gt;</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<p>这是一个链接<a target="_blank" rel="noopener" href="https://alittleprince.xyz/">昏.</a></p>
+<p><a target="_blank" rel="noopener" href="https://alittleprince.xyz/">https://alittleprince.xyz</a></p>
+<p>还可以通过变量来设置一个链接，变量赋值在文档末尾进行</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">这个链接用1作为网址变量[昏][1]</span><br><span class="line">这个链接用abc作为网址变量[vision][abc]</span><br><span class="line"></span><br><span class="line">然后在文档的结尾为变量赋值（网址）</span><br><span class="line">[1]: https://alittleprince.xyz</span><br><span class="line">[abc]: https://baobaobashi.xyz/</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<p>这个链接用1作为网址变量<a target="_blank" rel="noopener" href="https://alittleprince.xyz/">昏</a></p>
+<p>这个链接用abc作为网址变量<a target="_blank" rel="noopener" href="https://baobaobashi.xyz/">vision</a></p>
+<p>然后在文档的结尾为变量赋值（网址）</p>
+<h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h1><p>片段的代码可以用反引号(`)把它包起来</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`int main()`</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<p><code>int main()</code></p>
+<p>代码区块使用4个空格或者一个制表符，也可以用 ``` 包裹一段代码，并指定一种语言（或者不指定）</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">```c</span><br><span class="line">#include &lt;stdio.h&gt;</span><br><span class="line">int main()</span><br><span class="line">&#123;</span><br><span class="line">printf(&quot;Hello, World!&quot;);</span><br><span class="line">return 0;</span><br><span class="line">&#125;</span><br><span class="line">```</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;Hello, World!&quot;</span>);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>累了睡觉去了~~</p>
+ 
       <!-- reward -->
       
     </div>
@@ -107,19 +189,10 @@
    
   <nav class="article-nav">
     
-      <a href="/2022/01/16/nginx/" class="article-nav-link">
-        <strong class="article-nav-caption">上一篇</strong>
-        <div class="article-nav-title">
-          
-            Nginx安装
-          
-        </div>
-      </a>
     
-    
-      <a href="/2022/01/10/hello-world/" class="article-nav-link">
+      <a href="/2022/01/16/linux/" class="article-nav-link">
         <strong class="article-nav-caption">下一篇</strong>
-        <div class="article-nav-title">Hello World</div>
+        <div class="article-nav-title">Linux环境搭建</div>
       </a>
     
   </nav>
