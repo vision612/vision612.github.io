@@ -1,104 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/01/10/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>LCH官方</title>
+    <url>/2022/02/16/LCH/</url>
+    <content><![CDATA[<h1 id="LCH"><a href="#LCH" class="headerlink" title="LCH"></a>LCH</h1><p>lol champions hfut 智能制造</p>
+<p>重要通知：由于SBT战队上野决裂，赛事取消</p>
+<span id="more"></span>
+<img src="https://baobaobashi.xyz/master/lch (4).webp" alt=""/>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<h1 id="战队介绍"><a href="#战队介绍" class="headerlink" title="战队介绍"></a>战队介绍</h1><h2 id="SBT"><a href="#SBT" class="headerlink" title="SBT"></a>SBT</h2><p><img src="https://baobaobashi.xyz/master/%E6%9C%AA%E6%A0%87%E9%A2%98-1.webp"></p>
+<p>SBT电子竞技俱乐部（英语：shuai bi team，简称SBT）是一家成立于2021年10月的中国电子竞技俱乐部，该俱乐部当前以《英雄联盟》为主要项目，并有《云顶之弈》、《金铲铲之战》等分部。其英雄联盟分部获得过英雄联盟合工大智能制造19-1赛区s2总冠军。</p>
+<h2 id="EGG"><a href="#EGG" class="headerlink" title="EGG"></a>EGG</h2><p><img src="https://baobaobashi.xyz/master/%E6%9C%AA%E6%A0%87%E9%A2%98-2.webp"><br>yituoshi</p>
+<p>王源不来写</p>
+<h1 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h1><h2 id="LCH智能制造英雄联盟分部人员变动公告"><a href="#LCH智能制造英雄联盟分部人员变动公告" class="headerlink" title="LCH智能制造英雄联盟分部人员变动公告"></a>LCH智能制造英雄联盟分部人员变动公告</h2><p>2021年10月26日，EGG电子竞技俱乐部英雄联盟分部，打野选手一路向北2001正式于休赛期离开EGG电子竞技俱乐部，带着天赋与荣誉转会至SBT。同时，EGG将迎来冠军中单倾城丿blurt。</p>
+<p>对于EGG.一路向北2001来说，一个时代已经结束。</p>
+<p>对于SBT.一路向北2001来说，一个时代刚刚开始。</p>
+<h1 id="赛季回顾"><a href="#赛季回顾" class="headerlink" title="赛季回顾"></a>赛季回顾</h1><h2 id="S3"><a href="#S3" class="headerlink" title="S3"></a>S3</h2><p><img src="https://baobaobashi.xyz/master/l3.webp"></p>
+<h2 id="S2"><a href="#S2" class="headerlink" title="S2"></a>S2</h2><p><img src="https://baobaobashi.xyz/master/lollll.webp"></p>
+<h2 id="S1"><a href="#S1" class="headerlink" title="S1"></a>S1</h2><p>历史久远，记录缺失</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>测试用</title>
-    <url>/2022/01/11/about/</url>
-    <content><![CDATA[]]></content>
       <categories>
         <category>test</category>
       </categories>
   </entry>
   <entry>
-    <title>Markdown语法</title>
-    <url>/2022/01/16/markdown/</url>
-    <content><![CDATA[<blockquote>
-<p>本文作为自己的学习记录，内容来自互联网，整理记录一些常用的语法。<br>参考：<a href="https://www.runoob.com/markdown/md-tutorial.html">https://www.runoob.com/markdown/md-tutorial.html</a></p>
-</blockquote>
-<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><p>使用#来标记</p>
-<p>一个#是一级标题，二个#是二级标题，以此类推，最多支持六级标题</p>
-<p>注：标准语法一般在#后跟个空格再写文字</p>
-<p>例如：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 这是一级标题</span><br><span class="line">## 这是二级标题</span><br><span class="line">### 这是三级标题</span><br><span class="line">#### 这是四级标题</span><br><span class="line">##### 这是五级标题</span><br><span class="line">###### 这是六级标题</span><br></pre></td></tr></table></figure>
-<p>效果如下：</p>
-<h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级标题"><a href="#这是三级标题" class="headerlink" title="这是三级标题"></a>这是三级标题</h3><h4 id="这是四级标题"><a href="#这是四级标题" class="headerlink" title="这是四级标题"></a>这是四级标题</h4><h5 id="这是五级标题"><a href="#这是五级标题" class="headerlink" title="这是五级标题"></a>这是五级标题</h5><h6 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="这是六级标题"></a>这是六级标题</h6><h1 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h1><p><strong>加粗</strong></p>
-<p>要加粗的文字左右分别用两个*号包起来</p>
-<p><em>斜体</em> </p>
-<p>要倾斜的文字左右分别用一个*号包起来</p>
-<p><em><strong>斜体加粗</strong></em></p>
-<p>要倾斜和加粗的文字左右分别用三个*号包起来</p>
-<p><del>删除线</del></p>
-<p>要加删除线的文字左右分别用两个~~号包起来</p>
-<p>例如：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">**加粗的文字**</span><br><span class="line">*倾斜的文字*`</span><br><span class="line">***斜体加粗的文字***</span><br><span class="line">~~加删除线的文字~~</span><br></pre></td></tr></table></figure>
-<p>效果如下：</p>
-<p><strong>加粗的文字</strong></p>
-<p><em>倾斜的文字</em></p>
-<p><em><strong>斜体加粗的文字</strong></em></p>
-<p><del>加删除线的文字</del></p>
-<h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p>图片的语法：<br><code>![alt 属性文本](图片地址 &quot;可选标题&quot;)</code></p>
-<p>开头一个感叹号 !</p>
-<p>接着一个方括号，里面放上图片的替代文字</p>
-<p>接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上选择性的 ‘title’ 属性的文字</p>
-<p>例如：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![图片](https://baobaobashi.xyz/wp-content/uploads/2021/12/IMG_197420211019-131406.webp)</span><br></pre></td></tr></table></figure>
-<p>效果如下：<br><img src="https://baobaobashi.xyz/wp-content/uploads/2021/12/IMG_197420211019-131406.webp" alt="图片"></p>
-<p>Markdown还没有办法指定图片的高度与宽度，如果你需要的话，可以使用普通的<code>&lt;img&gt;</code>标签</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;img src=&quot;https://baobaobashi.xyz/wp-content/uploads/2021/12/IMG_197420211019-131406.webp&quot; width=&quot;50%&quot;&gt;</span><br></pre></td></tr></table></figure>
-<p>效果如下：</p>
-<img src="https://baobaobashi.xyz/wp-content/uploads/2021/12/IMG_197420211019-131406.webp" width="50%">
-
-<h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><p>链接的语法：<code>[链接名称](链接地址)</code>或者<code>&lt;链接地址&gt;</code></p>
-<p>例如：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">这是一个链接[昏.](https://alittleprince.xyz/)</span><br><span class="line"></span><br><span class="line">&lt;https://alittleprince.xyz&gt;</span><br></pre></td></tr></table></figure>
-<p>效果如下：</p>
-<p>这是一个链接<a href="https://alittleprince.xyz/">昏.</a></p>
-<p><a href="https://alittleprince.xyz/">https://alittleprince.xyz</a></p>
-<p>还可以通过变量来设置一个链接，变量赋值在文档末尾进行</p>
-<p>例如：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">这个链接用1作为网址变量[昏][1]</span><br><span class="line">这个链接用abc作为网址变量[vision][abc]</span><br><span class="line"></span><br><span class="line">然后在文档的结尾为变量赋值（网址）</span><br><span class="line">[1]: https://alittleprince.xyz</span><br><span class="line">[abc]: https://baobaobashi.xyz/</span><br></pre></td></tr></table></figure>
-<p>效果如下：</p>
-<p>这个链接用1作为网址变量<a href="https://alittleprince.xyz/">昏</a></p>
-<p>这个链接用abc作为网址变量<a href="https://baobaobashi.xyz/">vision</a></p>
-<p>然后在文档的结尾为变量赋值（网址）</p>
-<h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h1><p>片段的代码可以用反引号(`)把它包起来</p>
-<p>例如：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">`int main()`</span><br></pre></td></tr></table></figure>
-<p>效果如下：</p>
-<p><code>int main()</code></p>
-<p>代码区块使用4个空格或者一个制表符，也可以用 ``` 包裹一段代码，并指定一种语言（或者不指定）</p>
-<p>例如：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">```c</span><br><span class="line">#include &lt;stdio.h&gt;</span><br><span class="line">int main()</span><br><span class="line">&#123;</span><br><span class="line">printf(&quot;Hello, World!&quot;);</span><br><span class="line">return 0;</span><br><span class="line">&#125;</span><br><span class="line">```</span><br></pre></td></tr></table></figure>
-<p>效果如下：</p>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;Hello, World!&quot;</span>);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>累了睡觉去了~~</p>
-]]></content>
-      <categories>
-        <category>web</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Linux环境搭建</title>
     <url>/2022/01/16/linux/</url>
-    <content><![CDATA[<h1 id="软件版本"><a href="#软件版本" class="headerlink" title="软件版本"></a>软件版本</h1><p>虚拟机VMware® Workstation 15 Pro</p>
+    <content><![CDATA[<span id="more"></span>
+<h1 id="软件版本"><a href="#软件版本" class="headerlink" title="软件版本"></a>软件版本</h1><p>虚拟机VMware® Workstation 15 Pro</p>
 <p>系统win10</p>
 <p>镜像CentOS 7.9</p>
 <h1 id="安装Linux虚拟机"><a href="#安装Linux虚拟机" class="headerlink" title="安装Linux虚拟机"></a>安装Linux虚拟机</h1><h2 id="1、安装VMware"><a href="#1、安装VMware" class="headerlink" title="1、安装VMware"></a>1、安装VMware</h2><p>自己想办法</p>
@@ -114,7 +43,28 @@
 <p>百度云 链接：<a href="https://pan.baidu.com/s/1hhtJSXZje1GUc2NItARemw">https://pan.baidu.com/s/1hhtJSXZje1GUc2NItARemw</a> 提取码：mr77</p>
 <p>阿里云 链接：<a href="https://www.aliyundrive.com/s/cgDyFTsYF3y">https://www.aliyundrive.com/s/cgDyFTsYF3y</a></p>
 <h2 id="2、使用Xshell连接虚拟机"><a href="#2、使用Xshell连接虚拟机" class="headerlink" title="2、使用Xshell连接虚拟机"></a>2、使用Xshell连接虚拟机</h2><p>输入ip用户名密码连接</p>
-<p><img src="https://baobaobashi.xyz/wp-content/uploads/2021/12/image-4.png"></p>
+]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>R.I.P 星云</title>
+    <url>/2021/12/14/RIP/</url>
+    <content><![CDATA[<span id="more"></span>
+<p><img src="https://baobaobashi.xyz/master/qianmo.webp" alt="rip"></p>
+<p>“总有一天你将破蛹而出，成长得比人们期待的还要美丽。但这个过程会很痛，会很辛苦，有时候还会觉得灰心。面对着汹涌而来的现实，觉得自己渺小无力。但这，也是生命的一部分。做好现在你能做的，然后，一切都会好的。我们都将孤独地长大，不要害怕。”</p>
+<p>愿这本书，能帮到那些热爱游戏编程、怀揣游戏开发梦想，却苦于难以入门的人们，让他们少走弯路。</p>
+<p>愿这本书，能为国产游戏、国产游戏引擎的崛起，开启一扇门，迎接新的黎明。</p>
+<p>我有一个梦想，将来的某一天，大家都能玩到蕴含着中国上下五千年本土文化的优质游戏大作。</p>
+<p>我有一个梦想，有一天，西游记能出ACT，让老外去体会中国文化西游记中”斗战胜佛”的打击快感，那一定比西方的动作巅峰之作《战神》、《鬼泣》更加深邃。</p>
+<p>我有一个梦想，有一天，上海滩能出沙盒游戏，而不是玩《GTA》感受美国梦，亦或是玩着《热血无赖》体验国外公司强行塞给我们的“中国文化”。</p>
+<p>我有一个梦想，有一天，不少3A大作不需要汉化，因为是我们自己的游戏，配音是中文，文化也是中国的。</p>
+<p>我有一个梦想，将来的某一天，国产游戏能像中国的其他产业一样，以一个领跑者的姿态，面对全世界，面对全宇宙，器宇轩昂，扬眉吐气。</p>
+<p>这会是由我们一起去完成的梦想。</p>
+<p>我等着我们的好消息。</p>
+<p>浅墨 2013年5月于乌克兰</p>
+<p>——《逐梦旅程：Windows游戏编程之从零开始》</p>
 ]]></content>
       <categories>
         <category>web</category>
@@ -123,7 +73,8 @@
   <entry>
     <title>Nginx安装</title>
     <url>/2022/01/16/nginx/</url>
-    <content><![CDATA[<h1 id="linux下yum安装"><a href="#linux下yum安装" class="headerlink" title="linux下yum安装"></a>linux下yum安装</h1><p>有时间再写</p>
+    <content><![CDATA[<span id="more"></span>
+<h1 id="linux下yum安装"><a href="#linux下yum安装" class="headerlink" title="linux下yum安装"></a>linux下yum安装</h1><p>有时间再写</p>
 <hr>
 <h1 id="linux下手动安装"><a href="#linux下手动安装" class="headerlink" title="linux下手动安装"></a>linux下手动安装</h1><p>参考<a href="https://www.kuangstudy.com/bbs/1353634800149213186">https://www.kuangstudy.com/bbs/1353634800149213186</a></p>
 <h2 id="安装依赖"><a href="#安装依赖" class="headerlink" title="安装依赖"></a>安装依赖</h2><p>1、安装gcc</p>
@@ -164,6 +115,443 @@
 ]]></content>
       <categories>
         <category>web</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Markdown语法</title>
+    <url>/2022/01/16/markdown/</url>
+    <content><![CDATA[<span id="more"></span>
+
+<blockquote>
+<p>本文作为自己的学习记录，内容来自互联网，整理记录一些常用的语法。<br>参考：<a href="https://www.runoob.com/markdown/md-tutorial.html">https://www.runoob.com/markdown/md-tutorial.html</a></p>
+</blockquote>
+<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><p>使用#来标记</p>
+<p>一个#是一级标题，二个#是二级标题，以此类推，最多支持六级标题</p>
+<p>注：标准语法一般在#后跟个空格再写文字</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 这是一级标题</span><br><span class="line">## 这是二级标题</span><br><span class="line">### 这是三级标题</span><br><span class="line">#### 这是四级标题</span><br><span class="line">##### 这是五级标题</span><br><span class="line">###### 这是六级标题</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级标题"><a href="#这是三级标题" class="headerlink" title="这是三级标题"></a>这是三级标题</h3><h4 id="这是四级标题"><a href="#这是四级标题" class="headerlink" title="这是四级标题"></a>这是四级标题</h4><h5 id="这是五级标题"><a href="#这是五级标题" class="headerlink" title="这是五级标题"></a>这是五级标题</h5><h6 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="这是六级标题"></a>这是六级标题</h6><h1 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h1><p><strong>加粗</strong></p>
+<p>要加粗的文字左右分别用两个*号包起来</p>
+<p><em>斜体</em> </p>
+<p>要倾斜的文字左右分别用一个*号包起来</p>
+<p><em><strong>斜体加粗</strong></em></p>
+<p>要倾斜和加粗的文字左右分别用三个*号包起来</p>
+<p><del>删除线</del></p>
+<p>要加删除线的文字左右分别用两个~~号包起来</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">**加粗的文字**</span><br><span class="line">*倾斜的文字*`</span><br><span class="line">***斜体加粗的文字***</span><br><span class="line">~~加删除线的文字~~</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<p><strong>加粗的文字</strong></p>
+<p><em>倾斜的文字</em></p>
+<p><em><strong>斜体加粗的文字</strong></em></p>
+<p><del>加删除线的文字</del></p>
+<h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p>图片的语法：<br><code>![alt 属性文本](图片地址 &quot;可选标题&quot;)</code></p>
+<p>开头一个感叹号 !</p>
+<p>接着一个方括号，里面放上图片的替代文字</p>
+<p>接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上选择性的 ‘title’ 属性的文字</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![图片](https://baobaobashi.xyz/master/f1.webp)</span><br></pre></td></tr></table></figure>
+<p>效果如下：<br><img src="https://baobaobashi.xyz/master/f1.webp" alt="图片"></p>
+<p>Markdown还没有办法指定图片的高度与宽度，如果你需要的话，可以使用普通的<code>&lt;img&gt;</code>标签</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;img src=&quot;https://baobaobashi.xyz/master/f1.webp&quot; width=&quot;50%&quot;&gt;</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<img src="https://baobaobashi.xyz/master/f1.webp" width="50%">
+
+<h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><p>链接的语法：<code>[链接名称](链接地址)</code>或者<code>&lt;链接地址&gt;</code></p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">这是一个链接[昏.](https://alittleprince.xyz/)</span><br><span class="line"></span><br><span class="line">&lt;https://alittleprince.xyz&gt;</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<p>这是一个链接<a href="https://alittleprince.xyz/">昏.</a></p>
+<p><a href="https://alittleprince.xyz/">https://alittleprince.xyz</a></p>
+<p>还可以通过变量来设置一个链接，变量赋值在文档末尾进行</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">这个链接用1作为网址变量[昏][1]</span><br><span class="line">这个链接用abc作为网址变量[vision][abc]</span><br><span class="line"></span><br><span class="line">然后在文档的结尾为变量赋值（网址）</span><br><span class="line">[1]: https://alittleprince.xyz</span><br><span class="line">[abc]: https://baobaobashi.xyz/</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<p>这个链接用1作为网址变量<a href="https://alittleprince.xyz/">昏</a></p>
+<p>这个链接用abc作为网址变量<a href="https://baobaobashi.xyz/">vision</a></p>
+<p>然后在文档的结尾为变量赋值（网址）</p>
+<h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h1><p>片段的代码可以用反引号(`)把它包起来</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">`int main()`</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<p><code>int main()</code></p>
+<p>代码区块使用4个空格或者一个制表符，也可以用 ``` 包裹一段代码，并指定一种语言（或者不指定）</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">```c</span><br><span class="line">#include &lt;stdio.h&gt;</span><br><span class="line">int main()</span><br><span class="line">&#123;</span><br><span class="line">printf(&quot;Hello, World!&quot;);</span><br><span class="line">return 0;</span><br><span class="line">&#125;</span><br><span class="line">```</span><br></pre></td></tr></table></figure>
+<p>效果如下：</p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;Hello, World!&quot;</span>);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>累了睡觉去了~~</p>
+]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>云虫</title>
+    <url>/2022/01/17/%E4%BA%91%E8%99%AB/</url>
+    <content><![CDATA[<span id="more"></span>
+
+<p><img src="https://cdn.jsdelivr.net/gh/vision612/img/Chapter1.jpg"></p>
+]]></content>
+      <categories>
+        <category>wlop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>鬼刀（一）</title>
+    <url>/2022/01/16/%E9%AC%BC%E5%88%80%EF%BC%88%E4%B8%80%EF%BC%89/</url>
+    <content><![CDATA[<p>by wlop</p>
+<span id="more"></span>
+<h1 id="第零章"><a href="#第零章" class="headerlink" title="第零章"></a>第零章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (1).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (1)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+
+<h1 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd(2).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (2)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<h1 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (3).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (3)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (4).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (4)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (5).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (5)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+
+<h1 id="外章"><a href="#外章" class="headerlink" title="外章"></a>外章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (6).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (6)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (7).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (7)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<h1 id="第三章"><a href="#第三章" class="headerlink" title="第三章"></a>第三章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (8).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (8)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (9).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (9)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+
+<h1 id="第四章"><a href="#第四章" class="headerlink" title="第四章"></a>第四章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (10).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (10)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (11).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (11)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (12).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (12)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (13).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (13)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (13)3.webp" alt=""/></figure>
+<!-- /wp:image -->]]></content>
+      <categories>
+        <category>wlop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>网站搭建</title>
+    <url>/2022/01/01/%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<span id="more"></span>
+<p>不会的请百度或者b站，因为我也不会</p>
+<p>表达些许粗糙，可能词不达意或存在错误，欢迎指出</p>
+<h1 id="准备服务器"><a href="#准备服务器" class="headerlink" title="准备服务器"></a>准备服务器</h1><p>可以是云服务器、虚拟机、或者你的电脑</p>
+<p>推荐使用虚拟机作为服务器，因为可以随便尝试不会搞乱你的电脑</p>
+<p>大多数网站后台选用没有图形页面的linux</p>
+<p>比如centos，参考虚拟机搭建<a href="https://baobaobashi.xyz/2022/01/16/linux/">Linux环境搭建</a></p>
+<p>当然你也可以使用windows，更直观</p>
+<p>选择你想要搭建的网站类型</p>
+<p>目前，主流的博客主要分静态博客和动态博客两类：</p>
+<p>所谓动态，就是指有前端有后端，可以登录到后台进行管理。静态博客是纯前端的展示，没有后端。</p>
+<p>（1）<strong>动态博客搭建</strong></p>
+<p>使用WordPress等成熟框架搭建动态博客 + 服务器部署（简单）</p>
+<p>使用JavaPHP、Python等语言开发属于自己的动态博客 + 服务器部署（不会）</p>
+<p>（2）<strong>静态博客搭建</strong></p>
+<p>使用Hexo、Hugo、jekyll等主流博客框架搭建静态博客，还可以托管在github或者gitee</p>
+<h1 id="选择web服务器"><a href="#选择web服务器" class="headerlink" title="选择web服务器"></a>选择web服务器</h1><p>Web服务器，一般是指“网站服务器”，是指驻留于互联网上某种类型计算机的程序。Web服务器可以向Web浏览器等客户端提供文档，也可以放置网站文件，让全世界浏览，更可以放置数据文件，让全世界下载。</p>
+<p>不管是动态博客还是静态博客都需要web服务器</p>
+<p>动态博客还需要搭建数据库、PHP环境，即LNMP环境</p>
+<p>静态博客只需要将你的网页放到主机网站目录就可以了</p>
+<p>有多种web服务器可供选择，我只会nginx，其它的你可以百度</p>
+<h1 id="搭建过程"><a href="#搭建过程" class="headerlink" title="搭建过程"></a>搭建过程</h1><p>可以使用宝塔面板，简单可视化 <a href="http://112.124.31.180:88/2021/365.html">http://112.124.31.180:88/2021/365.html</a></p>
+<p>1、<strong>静态博客</strong></p>
+<p>使用Hexo、Hugo、jekyll等生成静态网页，或者github下载一套，或者自己写</p>
+<p>安装web服务器，以nginx为例</p>
+<p>安装参考 <a href="http://112.124.31.180:88/2021/260.html">http://112.124.31.180:88/2021/260.html</a></p>
+<p>linux下也可参考下面使用脚本安装</p>
+<p>修改配置文件nginx/conf/nginx.conf</p>
+<p>linux不同的安装方法的配置文件的位置会不同</p>
+<p>修改server里root后面的位置</p>
+<p><img src="https://baobaobashi.xyz/master/image-3.png"></p>
+<p>例如我这里修改为/home/wwwroot/wordpress,就是指网站目录位于 /home/wwwroot/wordpress</p>
+<p>当然你也可以不修改，直接将默认目录里的文件替换成你的网站文件就可以了</p>
+<p><img src="https://baobaobashi.xyz/master/image-2.png"></p>
+<p>2、<strong>动态博客</strong></p>
+<p>在linux环境以wordpress为例，因为我只会这个，包括本站也是使用的 wordpress</p>
+<p>windows环境下没有试过，</p>
+<p><strong>部署LNMP环境，即Nginx+MySQL+PHP</strong></p>
+<p>试过了手动安装后还是觉得脚本好用，宝塔面板也不错（最简单）</p>
+<p>推荐<a href="https://lnmp.org/faq/lnmp-software-list.html"></a><a href="https://lnmp.org/">https://lnmp.org/</a></p>
+<p>依次执行后按提示操作（这是三条</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">yum install screen</span><br><span class="line"></span><br><span class="line">yum install wget</span><br><span class="line"></span><br><span class="line">wget http://soft.vpser.net/lnmp/lnmp1.8.tar.gz -cO lnmp1.8.tar.gz &amp;&amp; tar zxf lnmp1.8.tar.gz &amp;&amp; <span class="built_in">cd</span> lnmp1.8 &amp;&amp; ./install.sh lnmp</span><br></pre></td></tr></table></figure>
+
+<p><strong>建立数据库</strong></p>
+<p>环境安装好之后建立wordpress的数据库，参考<a href="https://help.aliyun.com/document_detail/151691.html">https://help.aliyun.com/document_detail/151691.html</a></p>
+<p>进入MySQL数据库，使用root用户登录MySQL，并输入密码，密码为您在搭建环境时为数据库设置的密码。</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">mysql -uroot -p</span><br></pre></td></tr></table></figure>
+
+<p>为WordPress网站创建数据库，本教程中数据库名为wordpress。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">create database wordpress;</span><br></pre></td></tr></table></figure>
+<p>创建一个新用户管理WordPress库，提高安全性。MySQL在5.7版本后默认安装了密码强度验证插件validate_password。您可以登录MySQL后查看密码强度规则。</p>
+<p>本教程中创建新用户user，新用户密码为PASSword123.。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">create user &#x27;user&#x27;@&#x27;localhost&#x27; identified by &#x27;PASSword123.&#x27;;</span><br></pre></td></tr></table></figure>
+<p>赋予用户对数据库wordpress的全部权限。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">grant all privileges on wordpress.* to &#x27;user&#x27;@&#x27;localhost&#x27; identified by &#x27;PASSword123.&#x27;;</span><br></pre></td></tr></table></figure>
+<p>使配置生效。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">flush privileges;</span><br></pre></td></tr></table></figure>
+<p>退出MySQL。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">exit;</span><br></pre></td></tr></table></figure>
+
+<p><strong>修改Nginx主配置文件</strong></p>
+<p>使用上面脚本安装的nginx配置文件位于/usr/local/nginx/conf/nginx.conf</p>
+<p>输入命令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">vi /usr/local/nginx/conf/nginx.conf</span><br></pre></td></tr></table></figure>
+<p>按i编辑文件，编辑完成后按esc后输入:wq退出</p>
+<p>脚本安装的默认网站目录位于/home/wwwroot/default，你也可以不修改配置文件直接将default文件夹下的文件替换为wordpress的文件</p>
+<p><strong>下载wordpress并上传到服务器</strong></p>
+<p>打开wordpress官网下载<a href="https://cn.wordpress.org/download/">https://cn.wordpress.org/download/</a></p>
+<p>解压后使用Xftp将文件上传到网站目录</p>
+<p>或者使用wget直接下载到服务器解压，这样解压出来文件会位于名为wordpress的文件夹内，你需要再去修改nginx.conf 或提前修改好</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">wget https://cn.wordpress.org/latest-zh_CN.tar.gz</span><br><span class="line"></span><br><span class="line">tar -xzvf latest-zh_CN.tar.gz</span><br></pre></td></tr></table></figure>
+
+<p><strong>安装wordpress</strong></p>
+<p>在局域网内使用浏览器访问虚拟机ip的80端口</p>
+<p>根据提示输入你建立的数据库，用户及密码</p>
+<p>创建wp-config.php失败的话需要手动创建或者给予权限</p>
+<p>手动创建wp-config.php</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">vi /home/wwwroot/wordpress/wp-config.php</span><br></pre></td></tr></table></figure>
+
+<p>填写信息后进入网站后台</p>
+<p>我发现这样建出来的局域网内的网站好像没法从网上下载主题或者上传，可以通过Xftp手动上传到wordpress/wp-content/themes文件夹下</p>
+]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>鬼刀（二）</title>
+    <url>/2022/01/17/%E9%AC%BC%E5%88%80%EF%BC%88%E4%BA%8C%EF%BC%89/</url>
+    <content><![CDATA[<p>by wlop</p>
+<span id="more"></span>
+
+<h1 id="第五章"><a href="#第五章" class="headerlink" title="第五章"></a>第五章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (14).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (14)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (15).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (15)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (16).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (16)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (17).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (17)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<h1 id="第六章"><a href="#第六章" class="headerlink" title="第六章"></a>第六章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (18).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (18)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (20).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (20)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (19).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+
+<h1 id="第七章"><a href="#第七章" class="headerlink" title="第七章"></a>第七章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (21).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (21)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (22).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (22)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (23).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (23)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (25).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (25)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (24).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (24)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+
+<h1 id="第八章"><a href="#第八章" class="headerlink" title="第八章"></a>第八章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (26).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (26)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (27).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (27)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (27)3.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (28).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (28)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (28)3.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (29).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (29)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.jsdelivr.net/gh/vision612/img/gd (29)3.webp" alt=""/></figure>
+<!-- /wp:image -->]]></content>
+      <categories>
+        <category>wlop</category>
       </categories>
   </entry>
 </search>

@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-16T15:52:43.398Z</updated>
+  <updated>2022-07-13T14:37:11.483Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,80 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>LCH官方</title>
+    <link href="http://example.com/2022/02/16/LCH/"/>
+    <id>http://example.com/2022/02/16/LCH/</id>
+    <published>2022-02-16T07:17:24.000Z</published>
+    <updated>2022-07-13T14:37:11.483Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;LCH&quot;&gt;&lt;a href=&quot;#LCH&quot; class=&quot;headerlink&quot; title=&quot;LCH&quot;&gt;&lt;/a&gt;LCH&lt;/h1&gt;&lt;p&gt;lol champions hfut 智能制造&lt;/p&gt;
+&lt;p&gt;重要通知：由于SBT战队上野决裂，赛事取消&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="test" scheme="http://example.com/categories/test/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>云虫</title>
+    <link href="http://example.com/2022/01/17/%E4%BA%91%E8%99%AB/"/>
+    <id>http://example.com/2022/01/17/%E4%BA%91%E8%99%AB/</id>
+    <published>2022-01-17T07:19:24.000Z</published>
+    <updated>2022-02-17T07:37:09.408Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="wlop" scheme="http://example.com/categories/wlop/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>鬼刀（二）</title>
+    <link href="http://example.com/2022/01/17/%E9%AC%BC%E5%88%80%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
+    <id>http://example.com/2022/01/17/%E9%AC%BC%E5%88%80%EF%BC%88%E4%BA%8C%EF%BC%89/</id>
+    <published>2022-01-17T07:17:24.000Z</published>
+    <updated>2022-02-17T07:36:57.791Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;by wlop&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="wlop" scheme="http://example.com/categories/wlop/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Markdown语法</title>
     <link href="http://example.com/2022/01/16/markdown/"/>
     <id>http://example.com/2022/01/16/markdown/</id>
     <published>2022-01-16T15:52:24.000Z</published>
-    <updated>2022-01-16T15:52:43.398Z</updated>
+    <updated>2022-07-13T14:38:48.677Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;blockquote&gt;
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;blockquote&gt;
 &lt;p&gt;本文作为自己的学习记录，内容来自互联网，整理记录一些常用的语法。&lt;br&gt;参考：&lt;a</summary>
         
       
@@ -45,16 +107,15 @@
     <link href="http://example.com/2022/01/16/linux/"/>
     <id>http://example.com/2022/01/16/linux/</id>
     <published>2022-01-16T07:17:24.000Z</published>
-    <updated>2022-01-16T15:04:49.045Z</updated>
+    <updated>2022-02-17T07:37:07.297Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;软件版本&quot;&gt;&lt;a href=&quot;#软件版本&quot; class=&quot;headerlink&quot; title=&quot;软件版本&quot;&gt;&lt;/a&gt;软件版本&lt;/h1&gt;&lt;p&gt;虚拟机VMware® Workstation 15 Pro&lt;/p&gt;
-&lt;p&gt;系统win10&lt;/p&gt;
-&lt;p&gt;镜像CentOS</summary>
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h1 id=&quot;软件版本&quot;&gt;&lt;a href=&quot;#软件版本&quot; class=&quot;headerlink&quot; title=&quot;软件版本&quot;&gt;&lt;/a&gt;软件版本&lt;/h1&gt;&lt;p&gt;虚拟机VMware® Workstation 15</summary>
         
       
     
@@ -70,16 +131,15 @@
     <link href="http://example.com/2022/01/16/nginx/"/>
     <id>http://example.com/2022/01/16/nginx/</id>
     <published>2022-01-16T07:17:24.000Z</published>
-    <updated>2022-01-16T15:04:52.380Z</updated>
+    <updated>2022-02-17T07:36:51.199Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;linux下yum安装&quot;&gt;&lt;a href=&quot;#linux下yum安装&quot; class=&quot;headerlink&quot; title=&quot;linux下yum安装&quot;&gt;&lt;/a&gt;linux下yum安装&lt;/h1&gt;&lt;p&gt;有时间再写&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1</summary>
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h1 id=&quot;linux下yum安装&quot;&gt;&lt;a href=&quot;#linux下yum安装&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -91,37 +151,68 @@
   </entry>
   
   <entry>
-    <title>测试用</title>
-    <link href="http://example.com/2022/01/11/about/"/>
-    <id>http://example.com/2022/01/11/about/</id>
-    <published>2022-01-11T07:17:24.000Z</published>
-    <updated>2022-01-16T14:55:00.340Z</updated>
+    <title>鬼刀（一）</title>
+    <link href="http://example.com/2022/01/16/%E9%AC%BC%E5%88%80%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://example.com/2022/01/16/%E9%AC%BC%E5%88%80%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+    <published>2022-01-16T07:17:24.000Z</published>
+    <updated>2022-02-17T07:37:00.198Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;by wlop&lt;/p&gt;</summary>
     
     
     
-    
-    <category term="test" scheme="http://example.com/categories/test/"/>
+    <category term="wlop" scheme="http://example.com/categories/wlop/"/>
     
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2022/01/10/hello-world/"/>
-    <id>http://example.com/2022/01/10/hello-world/</id>
-    <published>2022-01-10T15:07:09.387Z</published>
-    <updated>2022-01-11T07:30:05.829Z</updated>
+    <title>网站搭建</title>
+    <link href="http://example.com/2022/01/01/%E7%BD%91%E7%AB%99/"/>
+    <id>http://example.com/2022/01/01/%E7%BD%91%E7%AB%99/</id>
+    <published>2022-01-01T07:17:24.000Z</published>
+    <updated>2022-07-13T14:40:28.950Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;p&gt;不会的请百度或者b站，因为我也不会&lt;/p&gt;
+&lt;p&gt;表达些许粗糙，可能词不达意或存在错误，欢迎指出&lt;/p&gt;
+&lt;h1 id=&quot;准备服务器&quot;&gt;&lt;a href=&quot;#准备服务器&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
+    
+    <category term="web" scheme="http://example.com/categories/web/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>R.I.P 星云</title>
+    <link href="http://example.com/2021/12/14/RIP/"/>
+    <id>http://example.com/2021/12/14/RIP/</id>
+    <published>2021-12-14T15:17:24.000Z</published>
+    <updated>2022-07-13T14:39:21.004Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;p&gt;&lt;img src=&quot;https://baobaobashi.xyz/master/qianmo.webp&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="web" scheme="http://example.com/categories/web/"/>
     
     
   </entry>
