@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-22T06:31:20.193Z</updated>
+  <updated>2023-04-22T07:07:11.295Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2022/02/16/LCH/"/>
     <id>http://example.com/2022/02/16/LCH/</id>
     <published>2022-02-16T07:17:24.000Z</published>
-    <updated>2023-04-22T06:31:20.193Z</updated>
+    <updated>2023-04-22T07:07:11.295Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;LCH&quot;&gt;&lt;a href=&quot;#LCH&quot; class=&quot;headerlink&quot; title=&quot;LCH&quot;&gt;&lt;/a&gt;LCH&lt;/h1&gt;&lt;p&gt;lol champions hfut 智能制造&lt;/p&gt;
@@ -29,7 +29,7 @@
     
     
     
-    <category term="test" scheme="http://example.com/categories/test/"/>
+    <category term="lch" scheme="http://example.com/categories/lch/"/>
     
     
   </entry>
@@ -113,7 +113,7 @@
     <link href="http://example.com/2022/01/11/%E9%AC%BC%E5%88%80%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
     <id>http://example.com/2022/01/11/%E9%AC%BC%E5%88%80%EF%BC%88%E4%BA%8C%EF%BC%89/</id>
     <published>2022-01-11T07:17:24.000Z</published>
-    <updated>2023-04-22T06:45:13.790Z</updated>
+    <updated>2023-04-22T07:09:07.141Z</updated>
     
     
     <summary type="html">&lt;p&gt;by wlop&lt;/p&gt;</summary>
@@ -130,7 +130,7 @@
     <link href="http://example.com/2022/01/10/%E9%AC%BC%E5%88%80%EF%BC%88%E4%B8%80%EF%BC%89/"/>
     <id>http://example.com/2022/01/10/%E9%AC%BC%E5%88%80%EF%BC%88%E4%B8%80%EF%BC%89/</id>
     <published>2022-01-10T07:17:24.000Z</published>
-    <updated>2023-04-22T06:45:11.968Z</updated>
+    <updated>2023-04-22T07:09:04.959Z</updated>
     
     
     <summary type="html">&lt;p&gt;by wlop&lt;/p&gt;</summary>
@@ -173,7 +173,7 @@
     <link href="http://example.com/2021/12/14/RIP/"/>
     <id>http://example.com/2021/12/14/RIP/</id>
     <published>2021-12-14T15:17:24.000Z</published>
-    <updated>2023-04-22T06:35:10.758Z</updated>
+    <updated>2023-04-22T07:10:36.383Z</updated>
     
     
       
@@ -187,7 +187,7 @@
     
     
     
-    <category term="web" scheme="http://example.com/categories/web/"/>
+    <category term="other" scheme="http://example.com/categories/other/"/>
     
     
   </entry>
