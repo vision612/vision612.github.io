@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>R.I.P 星云</title>
+    <url>/2021/12/14/RIP/</url>
+    <content><![CDATA[<span id="more"></span>
+<p><img src="https://testingcf.jsdelivr.net/gh/vision612/img/qianmo.webp" alt="rip"></p>
+<p>“总有一天你将破蛹而出，成长得比人们期待的还要美丽。但这个过程会很痛，会很辛苦，有时候还会觉得灰心。面对着汹涌而来的现实，觉得自己渺小无力。但这，也是生命的一部分。做好现在你能做的，然后，一切都会好的。我们都将孤独地长大，不要害怕。”</p>
+<p>愿这本书，能帮到那些热爱游戏编程、怀揣游戏开发梦想，却苦于难以入门的人们，让他们少走弯路。</p>
+<p>愿这本书，能为国产游戏、国产游戏引擎的崛起，开启一扇门，迎接新的黎明。</p>
+<p>我有一个梦想，将来的某一天，大家都能玩到蕴含着中国上下五千年本土文化的优质游戏大作。</p>
+<p>我有一个梦想，有一天，西游记能出ACT，让老外去体会中国文化西游记中”斗战胜佛”的打击快感，那一定比西方的动作巅峰之作《战神》、《鬼泣》更加深邃。</p>
+<p>我有一个梦想，有一天，上海滩能出沙盒游戏，而不是玩《GTA》感受美国梦，亦或是玩着《热血无赖》体验国外公司强行塞给我们的“中国文化”。</p>
+<p>我有一个梦想，有一天，不少3A大作不需要汉化，因为是我们自己的游戏，配音是中文，文化也是中国的。</p>
+<p>我有一个梦想，将来的某一天，国产游戏能像中国的其他产业一样，以一个领跑者的姿态，面对全世界，面对全宇宙，器宇轩昂，扬眉吐气。</p>
+<p>这会是由我们一起去完成的梦想。</p>
+<p>我等着我们的好消息。</p>
+<p>浅墨 2013年5月于乌克兰</p>
+<p>——《逐梦旅程：Windows游戏编程之从零开始》</p>
+]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+  </entry>
+  <entry>
     <title>LCH官方</title>
     <url>/2022/02/16/LCH/</url>
     <content><![CDATA[<h1 id="LCH"><a href="#LCH" class="headerlink" title="LCH"></a>LCH</h1><p>lol champions hfut 智能制造</p>
@@ -21,28 +43,6 @@
 ]]></content>
       <categories>
         <category>test</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>R.I.P 星云</title>
-    <url>/2021/12/14/RIP/</url>
-    <content><![CDATA[<span id="more"></span>
-<p><img src="https://testingcf.jsdelivr.net/gh/vision612/img/qianmo.webp" alt="rip"></p>
-<p>“总有一天你将破蛹而出，成长得比人们期待的还要美丽。但这个过程会很痛，会很辛苦，有时候还会觉得灰心。面对着汹涌而来的现实，觉得自己渺小无力。但这，也是生命的一部分。做好现在你能做的，然后，一切都会好的。我们都将孤独地长大，不要害怕。”</p>
-<p>愿这本书，能帮到那些热爱游戏编程、怀揣游戏开发梦想，却苦于难以入门的人们，让他们少走弯路。</p>
-<p>愿这本书，能为国产游戏、国产游戏引擎的崛起，开启一扇门，迎接新的黎明。</p>
-<p>我有一个梦想，将来的某一天，大家都能玩到蕴含着中国上下五千年本土文化的优质游戏大作。</p>
-<p>我有一个梦想，有一天，西游记能出ACT，让老外去体会中国文化西游记中”斗战胜佛”的打击快感，那一定比西方的动作巅峰之作《战神》、《鬼泣》更加深邃。</p>
-<p>我有一个梦想，有一天，上海滩能出沙盒游戏，而不是玩《GTA》感受美国梦，亦或是玩着《热血无赖》体验国外公司强行塞给我们的“中国文化”。</p>
-<p>我有一个梦想，有一天，不少3A大作不需要汉化，因为是我们自己的游戏，配音是中文，文化也是中国的。</p>
-<p>我有一个梦想，将来的某一天，国产游戏能像中国的其他产业一样，以一个领跑者的姿态，面对全世界，面对全宇宙，器宇轩昂，扬眉吐气。</p>
-<p>这会是由我们一起去完成的梦想。</p>
-<p>我等着我们的好消息。</p>
-<p>浅墨 2013年5月于乌克兰</p>
-<p>——《逐梦旅程：Windows游戏编程之从零开始》</p>
-]]></content>
-      <categories>
-        <category>web</category>
       </categories>
   </entry>
   <entry>
@@ -142,6 +142,172 @@
       </categories>
   </entry>
   <entry>
+    <title>Nginx安装</title>
+    <url>/2022/01/16/nginx/</url>
+    <content><![CDATA[<span id="more"></span>
+<h1 id="linux下yum安装"><a href="#linux下yum安装" class="headerlink" title="linux下yum安装"></a>linux下yum安装</h1><p>有时间再写</p>
+<hr>
+<h1 id="linux下手动安装"><a href="#linux下手动安装" class="headerlink" title="linux下手动安装"></a>linux下手动安装</h1><p>参考<a href="https://www.kuangstudy.com/bbs/1353634800149213186">https://www.kuangstudy.com/bbs/1353634800149213186</a></p>
+<h2 id="安装依赖"><a href="#安装依赖" class="headerlink" title="安装依赖"></a>安装依赖</h2><p>1、安装gcc</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> yum install gcc-c++</span></span><br></pre></td></tr></table></figure>
+<p>2、PCRE pcre-devel 安装</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> yum install -y pcre pcre-devel</span></span><br></pre></td></tr></table></figure>
+<p>3、zlib 安装</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> yum install -y zlib zlib-devel</span></span><br></pre></td></tr></table></figure>
+<p>4、OpenSSL 安装</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> yum install -y openssl openssl-devel</span></span><br></pre></td></tr></table></figure>
+<h2 id="下载与安装"><a href="#下载与安装" class="headerlink" title="下载与安装"></a>下载与安装</h2><p>手动下载.tar.gz安装包<a href="https://nginx.org/en/download.html">https://nginx.org/en/download.html</a></p>
+<p>在Stable version中选择 nginx-1.20.2 pgp 下载nginx-1.20.2.tar.gz</p>
+<p>使用xftp上传到服务器上 /root</p>
+<p>或者直接下载<code>wget https://nginx.org/download/nginx-1.20.2.tar.gz</code></p>
+<p>解压</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> tar -zxvf nginx-1.20.2.tar.gz</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> <span class="built_in">cd</span> nginx-1.20.2</span></span><br></pre></td></tr></table></figure>
+<p>配置，在nginx根目录下执行</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> ./configure</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> make</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> make install</span></span><br></pre></td></tr></table></figure>
+<p>查找安装路径 </p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> whereis nginx</span></span><br></pre></td></tr></table></figure>
+<h2 id="启动及常用命令"><a href="#启动及常用命令" class="headerlink" title="启动及常用命令"></a>启动及常用命令</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> <span class="built_in">cd</span> /usr/<span class="built_in">local</span>/nginx/sbin/  进入目录</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ./nginx  启动</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ./nginx -s stop  停止</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ./nginx -s quit  安全退出</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ./nginx -s reload  重新加载配置文件</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ps aux|grep nginx  查看nginx进程</span></span><br></pre></td></tr></table></figure>
+<p>关闭防火墙或开放端口</p>
+<p>启动成功 访问服务器ip:80</p>
+<p>开启及关闭防火墙</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> service firewalld start</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> service firewalld stop</span></span><br></pre></td></tr></table></figure>
+<h1 id="windows下安装"><a href="#windows下安装" class="headerlink" title="windows下安装"></a>windows下安装</h1><p><del>试过，没成功，未知原因</del></p>
+<p>参考<a href="https://www.cnblogs.com/taiyonghai/p/9402734.html">https://www.cnblogs.com/taiyonghai/p/9402734.html</a>更新失败原因 文件路径含有中文</p>
+<p>下载nginx</p>
+<p>下载Windows版<a href="https://nginx.org/en/download.html">https://nginx.org/en/download.html</a></p>
+<p>解压后双击nginx.exe启动，不要直接双击！ 不要直接双击！ 不要直接双击！</p>
+<p>win+r运行cmd</p>
+<p>使用命令到达nginx解压后的目录</p>
+<p>例如文件夹位于E:\nginx，先输入E：回车进入e盘，然后输入<code>cd nginx</code>进入文件夹</p>
+<p>启动ngnix，输入<code>nginx.exe</code>或者<code>start nginx</code></p>
+<p>在浏览器访问<a href="http://localhost/">http://localhost:80</a></p>
+<p>重新载入配置文件<code>nginx -s reload </code></p>
+<p>关闭nginx，输入<code>nginx -s stop </code>(快速停止nginx)或 <code>nginx -s quit </code>(完整有序的停止nginx)</p>
+]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>鬼刀（一）</title>
+    <url>/2022/01/16/%E9%AC%BC%E5%88%80%EF%BC%88%E4%B8%80%EF%BC%89/</url>
+    <content><![CDATA[<p>by wlop</p>
+<span id="more"></span>
+<h1 id="第零章"><a href="#第零章" class="headerlink" title="第零章"></a>第零章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (1).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (1)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+
+<h1 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd(2).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (2)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<h1 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (3).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (3)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (4).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (4)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (5).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (5)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+
+<h1 id="外章"><a href="#外章" class="headerlink" title="外章"></a>外章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (6).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (6)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (7).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (7)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<h1 id="第三章"><a href="#第三章" class="headerlink" title="第三章"></a>第三章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (8).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (8)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (9).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (9)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+
+<h1 id="第四章"><a href="#第四章" class="headerlink" title="第四章"></a>第四章</h1><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (10).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (10)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (11).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (11)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (12).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (12)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (13).webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (13)2.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (13)3.webp" alt=""/></figure>
+<!-- /wp:image -->]]></content>
+      <categories>
+        <category>wlop</category>
+      </categories>
+  </entry>
+  <entry>
     <title>网站搭建</title>
     <url>/2022/01/01/%E7%BD%91%E7%AB%99/</url>
     <content><![CDATA[<span id="more"></span>
@@ -225,53 +391,6 @@
 
 <p>填写信息后进入网站后台</p>
 <p>我发现这样建出来的局域网内的网站好像没法从网上下载主题或者上传，可以通过Xftp手动上传到wordpress/wp-content/themes文件夹下</p>
-]]></content>
-      <categories>
-        <category>web</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Nginx安装</title>
-    <url>/2022/01/16/nginx/</url>
-    <content><![CDATA[<span id="more"></span>
-<h1 id="linux下yum安装"><a href="#linux下yum安装" class="headerlink" title="linux下yum安装"></a>linux下yum安装</h1><p>有时间再写</p>
-<hr>
-<h1 id="linux下手动安装"><a href="#linux下手动安装" class="headerlink" title="linux下手动安装"></a>linux下手动安装</h1><p>参考<a href="https://www.kuangstudy.com/bbs/1353634800149213186">https://www.kuangstudy.com/bbs/1353634800149213186</a></p>
-<h2 id="安装依赖"><a href="#安装依赖" class="headerlink" title="安装依赖"></a>安装依赖</h2><p>1、安装gcc</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> yum install gcc-c++</span></span><br></pre></td></tr></table></figure>
-<p>2、PCRE pcre-devel 安装</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> yum install -y pcre pcre-devel</span></span><br></pre></td></tr></table></figure>
-<p>3、zlib 安装</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> yum install -y zlib zlib-devel</span></span><br></pre></td></tr></table></figure>
-<p>4、OpenSSL 安装</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> yum install -y openssl openssl-devel</span></span><br></pre></td></tr></table></figure>
-<h2 id="下载与安装"><a href="#下载与安装" class="headerlink" title="下载与安装"></a>下载与安装</h2><p>手动下载.tar.gz安装包<a href="https://nginx.org/en/download.html">https://nginx.org/en/download.html</a></p>
-<p>在Stable version中选择 nginx-1.20.2 pgp 下载nginx-1.20.2.tar.gz</p>
-<p>使用xftp上传到服务器上 /root</p>
-<p>或者直接下载<code>wget https://nginx.org/download/nginx-1.20.2.tar.gz</code></p>
-<p>解压</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> tar -zxvf nginx-1.20.2.tar.gz</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> <span class="built_in">cd</span> nginx-1.20.2</span></span><br></pre></td></tr></table></figure>
-<p>配置，在nginx根目录下执行</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> ./configure</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> make</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> make install</span></span><br></pre></td></tr></table></figure>
-<p>查找安装路径 </p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> whereis nginx</span></span><br></pre></td></tr></table></figure>
-<h2 id="启动及常用命令"><a href="#启动及常用命令" class="headerlink" title="启动及常用命令"></a>启动及常用命令</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> <span class="built_in">cd</span> /usr/<span class="built_in">local</span>/nginx/sbin/  进入目录</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ./nginx  启动</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ./nginx -s stop  停止</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ./nginx -s quit  安全退出</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ./nginx -s reload  重新加载配置文件</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> ps aux|grep nginx  查看nginx进程</span></span><br></pre></td></tr></table></figure>
-<p>关闭防火墙或开放端口</p>
-<p>启动成功 访问服务器ip:80</p>
-<p>开启及关闭防火墙</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> service firewalld start</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> service firewalld stop</span></span><br></pre></td></tr></table></figure>
-<h1 id="windows下安装"><a href="#windows下安装" class="headerlink" title="windows下安装"></a>windows下安装</h1><p><del>试过，没成功，未知原因</del></p>
-<p>参考<a href="https://www.cnblogs.com/taiyonghai/p/9402734.html">https://www.cnblogs.com/taiyonghai/p/9402734.html</a>更新失败原因 文件路径含有中文</p>
-<p>下载nginx</p>
-<p>下载Windows版<a href="https://nginx.org/en/download.html">https://nginx.org/en/download.html</a></p>
-<p>解压后双击nginx.exe启动，不要直接双击！ 不要直接双击！ 不要直接双击！</p>
-<p>win+r运行cmd</p>
-<p>使用命令到达nginx解压后的目录</p>
-<p>例如文件夹位于E:\nginx，先输入E：回车进入e盘，然后输入<code>cd nginx</code>进入文件夹</p>
-<p>启动ngnix，输入<code>nginx.exe</code>或者<code>start nginx</code></p>
-<p>在浏览器访问<a href="http://localhost/">http://localhost:80</a></p>
-<p>重新载入配置文件<code>nginx -s reload </code></p>
-<p>关闭nginx，输入<code>nginx -s stop </code>(快速停止nginx)或 <code>nginx -s quit </code>(完整有序的停止nginx)</p>
 ]]></content>
       <categories>
         <category>web</category>
@@ -419,125 +538,6 @@
 
 <!-- wp:image {"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (29)3.webp" alt=""/></figure>
-<!-- /wp:image -->]]></content>
-      <categories>
-        <category>wlop</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>鬼刀（一）</title>
-    <url>/2022/01/16/%E9%AC%BC%E5%88%80%EF%BC%88%E4%B8%80%EF%BC%89/</url>
-    <content><![CDATA[<p>by wlop</p>
-<span id="more"></span>
-<h1 id="第零章"><a href="#第零章" class="headerlink" title="第零章"></a>第零章</h1><!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (1).webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (1)2.webp" alt=""/></figure>
-<!-- /wp:image -->
-
-
-<h1 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h1><!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd(2).webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (2)2.webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<h1 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h1><!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (3).webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (3)2.webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (4).webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (4)2.webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (5).webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (5)2.webp" alt=""/></figure>
-<!-- /wp:image -->
-
-
-<h1 id="外章"><a href="#外章" class="headerlink" title="外章"></a>外章</h1><!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (6).webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (6)2.webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (7).webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (7)2.webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<h1 id="第三章"><a href="#第三章" class="headerlink" title="第三章"></a>第三章</h1><!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (8).webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (8)2.webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (9).webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (9)2.webp" alt=""/></figure>
-<!-- /wp:image -->
-
-
-<h1 id="第四章"><a href="#第四章" class="headerlink" title="第四章"></a>第四章</h1><!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (10).webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (10)2.webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (11).webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (11)2.webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (12).webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (12)2.webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (13).webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (13)2.webp" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://testingcf.jsdelivr.net/gh/vision612/img/gd (13)3.webp" alt=""/></figure>
 <!-- /wp:image -->]]></content>
       <categories>
         <category>wlop</category>
